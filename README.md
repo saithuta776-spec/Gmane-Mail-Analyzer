@@ -121,6 +121,7 @@ This is the entire pipeline your project performs—from downloading raw data to
 Output: Raw, unprocessed email data
 
 
+
 🧹 Step 2: Parse + Normalize
 	•	Clean sender addresses (domain normalization)
 	•	Extract:
@@ -143,21 +144,17 @@ Output: index.sqlite (cleaned + searchable)
 	•	Count frequency
 	•	Rank highest → lowest
 
+
+
 Output: Python dictionary of keyword counts
-
-
-
 🧪 Step 4: Generate JavaScript Dataset
 	•	Convert frequencies into size weights (20px–100px)
 	•	Write the final D3-readable file:
 		visualization/gword.js
 
+
+
 Output: JSON-like JS array used by the word cloud
-
-
-
-
-
 🌈 Step 5: Interactive Visualization
 	•	D3.js cloud layout positions the words
 	•	Colors, rotations, sizes applied dynamically
