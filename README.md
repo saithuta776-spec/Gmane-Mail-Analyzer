@@ -168,5 +168,28 @@ A fully interactive word cloud visualizing keyword importance.
 
 
 
+📜 License
+
+```txt
+
+MIT License
+
+Copyright (c) 2025 Sai Thuta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy…
+
+```
+
+
+🙌 Acknowledgements
+```txt
+	•	Based on concepts from Dr. Chuck (Charles Severance)
+	•	GMane public mail archive for open data
+	•	D3.js word cloud layout by Jason Davies
+	•	Project refactored and implemented by Sai Thuta Hlaing (Cairney)
+
+```
+
+
 
 
