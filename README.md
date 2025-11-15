@@ -183,9 +183,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy…
 
 🙌 Acknowledgements
 ```txt
-	•	Based on concepts from Dr. Chuck (Charles Severance)
+	•	Based on concepts from Python For Everbody (University of Michigan) (Coursera)
 	•	GMane public mail archive for open data
-	•	D3.js word cloud layout by Jason Davies
+	•	Credtit to course instructor Dr. Chuck (Charles Severance)
 	•	Project refactored and implemented by Sai Thuta Hlaing (Cairney)
 
 ```
